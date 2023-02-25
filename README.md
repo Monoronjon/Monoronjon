@@ -20,7 +20,7 @@ Skills: HTML, CSS, JAVASCRIPT, PHP, LARAVEL, MYSQL
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Monoronjon)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Monoronjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monoronjon&show_icons=true&theme=synthwave)
+![Monoronjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monoronjon&show_icons=true&theme=gruvbox)
 
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Monoronjon)  
