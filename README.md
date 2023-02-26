@@ -6,7 +6,7 @@
 
 I love programming and am proficient in web development, machine learning, and deep learning. My research interests are machine learning and deep learning.
 
-Skills: HTML, CSS, JAVASCRIPT, PHP, LARAVEL, MYSQL
+Skills: HTML, CSS, JAVASCRIPT, PHP, LARAVEL, MYSQL <br>
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,php,laravel,mysql,py)](https://skillicons.dev)
 
 - 🔭 I’m currently working on this page. 
