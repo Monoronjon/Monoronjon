@@ -24,10 +24,10 @@ Skills: HTML, CSS, JAVASCRIPT, PHP, LARAVEL, MYSQL <br>
 ![Monoronjon's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monoronjon&show_icons=true&theme=gruvbox)
 
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=monoronjon)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Monoronjon)  
 
 ![GitHub metrics](https://metrics.lecoq.io/Monoronjon)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=monoronjon)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=Monoronjon)  
 
 ![Profile views](https://gpvc.arturio.dev/Monoronjon)  
