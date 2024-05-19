@@ -10,9 +10,9 @@
 
 - 👨‍💻 All of my projects are available at [https://monoronjon.github.io/portfolio/home.html](https://monoronjon.github.io/portfolio/home.html)
 
-- 💬 Ask me about **Machine Learning, Deep learning, Web Application Development**
+- 💬 Ask me about **Machine Learning, Deep Learning, Computer Vision**
 
-- 📫 How to reach me **monoronjon447@gmail.com**
+- 📫 How to reach me **monoronjon.cse@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
