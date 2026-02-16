@@ -1,5 +1,5 @@
 <h2 align="center">Hi there 👋, my name is Monoronjon Dutta</h2>
-<h3 align="center">I specialize in advancing Multimodal AI, Deep Learning, Computer Vision, Machine Learning and Explainable AI, focusing on innovative solutions in healthcare applications</h3>
+<h3 align="center">I specialize in advancing Deep Learning, Computer Vision, Machine Learning, Multimodal AI and Explainable AI focusing on innovative solutions in healthcare applications</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=monoronjon&label=Profile%20views&color=0e75b6&style=flat" alt="monoronjon" /> </p>
 
